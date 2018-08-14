@@ -7,6 +7,6 @@ Python小工具，日常工具。
 
 版本：控制台加tkinter
 
-用途：更新博客日志模块：[博客日志](https://blog.micowxy.xin/log/ "博客日志")
+用途：更新博客日志模块：[博客日志](https://Resetday.github.io/log/ "博客日志")
 
 
